@@ -1,16 +1,24 @@
-# my_portfolio
+# Flutter Portfolio Template
+Made by Flutter v.3.0.4
 
-A new Flutter project.
+<hr>
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+You can costimize this project depending on your needs. <br>
+Make your own portfolio and share it to everyone!!
+<br><br>
 
-A few resources to get you started if this is your first Flutter project:
+### Screenshoot
+#### Phone
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![ph1](https://user-images.githubusercontent.com/92772661/181878132-57ec7bc0-1e84-42b1-bf67-1c9704fb005d.png)
+![ph2](https://user-images.githubusercontent.com/92772661/181878175-542c8728-88ff-432a-876e-acb86acbb4fd.png)
+![ph3](https://user-images.githubusercontent.com/92772661/181878187-fb31e427-957d-49e8-a79a-520c4ac714d3.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Web
+![1](https://user-images.githubusercontent.com/92772661/181878236-d6a29b33-d700-4b5f-9d8b-d40a8a6267a8.png)
+![2](https://user-images.githubusercontent.com/92772661/181878242-a9ea14f1-7b7c-466e-8b0f-382edff233cf.png)
+
+
+
